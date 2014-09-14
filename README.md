@@ -1,2 +1,0 @@
-percursoaleatorio.github.io
-===========================
